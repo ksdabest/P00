@@ -79,7 +79,7 @@ public void testDivideWith0Denominator () {
 	
 	int a = 20;
 	int b = 0;
-	int c = 4;
+	int c = 5;
 	try {
 		Calculator cal = new Calculator();
 		cal.divide(a, c);
