@@ -78,6 +78,7 @@ public void testDivide() {
 public void testDivideWith0Denominator () {
 	
 	int a = 20;
+	int b = 4;
 	int c = 5;
 	try {
 		Calculator cal = new Calculator();
